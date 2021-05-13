@@ -25,14 +25,14 @@ Your users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot !
+### Screenshot
 
 ![](./images/ScreenShot.jpg)
 
-### Links !
+### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/htmlandcss-bem-scss-profilecard-R_hU9jyi7)
-- Live Site URL: [Live](https://grifano.github.io/FrontendMentor__Profile-Card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/htmlandcss-bem-scss-hero-section-QX32n0RmU)
+- Live Site URL: [Live](https://grifano.github.io/FrontendMentor__Huddle-landing-page/)
 
 ## My process
 
