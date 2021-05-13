@@ -160,6 +160,12 @@ ul {
      object-fit: cover;
 }
 
+@media (max-width: 769px) {
+  .hero__image {
+    margin-bottom: 40px;
+  }
+}
+
 .hero__content {
   max-width: 465px;
   padding: 0 10px 0 30px;
