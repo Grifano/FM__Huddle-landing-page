@@ -13,6 +13,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -58,3 +59,8 @@ I want to continue to learn a JavaScript. Currently, I'm working on Course from 
 - Frontend Mentor - [@Grifano](https://www.frontendmentor.io/profile/Grifano)
 - Twitter - [@Grifano](https://twitter.com/OrlenkoSerhii)
 - LinkedIn - [@Grifano](https://www.linkedin.com/in/serhii-orlenko-44aaa4a3/)
+
+## Acknowledgments
+
+To [Vikash Agarwal](https://www.frontendmentor.io/profile/mattstuddert) for his amazing post that helps me with Accordion.
+
