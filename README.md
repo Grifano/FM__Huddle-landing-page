@@ -62,5 +62,4 @@ I want to continue to learn a JavaScript. Currently, I'm working on Course from 
 
 ## Acknowledgments
 
-To [Vikash Agarwal](https://www.frontendmentor.io/profile/mattstuddert) for his amazing post that helps me with Accordion.
-
+To [Matt Studdert](https://www.frontendmentor.io/profile/mattstuddert) for feedback, and advice to make a code closest to semantic structure.
