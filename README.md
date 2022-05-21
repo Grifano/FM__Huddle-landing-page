@@ -31,7 +31,7 @@ Your users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/htmlandcss-bem-scss-hero-section-QX32n0RmU)
-- Live Site URL: [Live](https://grifano.github.io/FrontendMentor__Huddle-landing-page/)
+- Live Site URL: [Live](https://grifano.github.io/FM__Huddle-landing-page/)
 
 ## My process
 
